@@ -81,8 +81,8 @@
 ## 🔗 Let's Connect
 
 📍 Almaty, Kazakhstan  
-📧 iskalinov13@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/iskalinov13)  
+📧 iskalinov133@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/fiskalinov/)  
 📱 iOS Engineer | Open to opportunities
 
 ---
