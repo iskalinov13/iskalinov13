@@ -2,10 +2,6 @@
 <h3 align="center">iOS Engineer | 5+ years in IT | Suleyman Demirel University Graduate</h3>
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/68967830?v=4" width="150" style="border-radius: 50%" alt="Farukh Iskalinov avatar"/>
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4FFFA8&center=true&vCenter=true&width=500&lines=iOS+Developer+%7C+Swift+%7C+SwiftUI;5%2B+years+experience;Always+learning+%F0%9F%93%9A+and+building+%F0%9F%94%A7" alt="Typing SVG" />
 </p>
 
