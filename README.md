@@ -45,6 +45,14 @@
 
 ---
 
+## 💻 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcode-badge-sage.vercel.app/badge/iskalinov13?theme=dark&bgColor=282828" alt="LeetCode stats"/>
+</p>
+
+---
+
 ## 🏆 GitHub Trophies
 
 <p align="center">
